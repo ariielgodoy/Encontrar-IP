@@ -7,7 +7,7 @@
 
 ---
 **¡ATENCIÓN! Nota Importante para la Conexión en tu Software:**
-Aunque esta guía te enseñará a encontrar la **dirección IP** de tu generador, es **fundamental recordar** que algunos programas (caso actual) o aplicaciones requerirán el **HOSTNAME** (nombre de red) del dispositivo para establecer la conexión, en lugar de la IP. Podrás encontrar este **HOSTNAME** una vez que accedas a la interfaz web de tu generador (después de descubrir su IP). ¡Tenlo presente para el paso final de la configuración en el software!
+Aunque esta guía te enseñará a encontrar la **dirección IP** de tu generador, es **fundamental recordar** que algunos programas (caso actual) o aplicaciones requerirán el **HOSTNAME** (nombre de red) del dispositivo para establecer la conexión, en lugar de la IP. Podrás encontrar este **HOSTNAME** una vez que accedas a la interfaz web de tu generador (después de descubrir su IP), la elección de la **IP** o el **HOSTNAME** depende del visa resource string, que tendra la siguiente forma TCPIP::{Hostname o IP}::INSTR o algo parecido. ¡Tenlo presente para el paso final de la configuración en el programa que estas usando!
 ---
 
 ## 📝 El Plan de Ataque
