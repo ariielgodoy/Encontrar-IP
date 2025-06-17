@@ -14,6 +14,10 @@ TCPIP::{Hostname o IP}::INSTR
 
 o algo parecido. ¡Tenlo presente para el paso final de la configuración en el programa que estas usando!
 
+Uno de los generadores tiene como HOSTNAME:
+```bash
+A-N5745A-M2749
+```
 ## 📝 El Plan de Ataque
 
 La estrategia es simple: vamos a "gritar" en la red para que todos los dispositivos nos respondan. Al hacerlo, nuestro ordenador actualizará su lista de "vecinos" conocidos (la tabla ARP), y ahí es donde encontraremos a nuestro generador.
