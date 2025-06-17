@@ -14,7 +14,7 @@ TCPIP::{Hostname o IP}::INSTR
 
 o algo parecido. ¡Tenlo presente para el paso final de la configuración en el programa que estas usando!
 
-Uno de los generadores tiene como HOSTNAME:
+Uno de nuestros generadores tiene como HOSTNAME:
 ```bash
 A-N5745A-M2749
 ```
