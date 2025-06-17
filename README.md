@@ -1,5 +1,5 @@
 # 🕵️‍♂️ Cómo Descubrir la IP de un Generador de Voltaje DC en tu Red Local
-Recordar que lo que se necesita en el programa es el **HOSTNAME** del generador que sale en la pagina web del programa.
+Recordar que lo que se necesita en el campo de nombre es el **HOSTNAME** del generador que sale en la pagina web del programa.
 ¿Necesitas conectar con tu generador de voltaje pero no tienes idea de cuál es su dirección IP? ¡No te preocupes! Esta guía te enseñará un método infalible para encontrarlo usando unos simples comandos en tu terminal.
 
 ---
